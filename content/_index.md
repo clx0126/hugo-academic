@@ -29,7 +29,7 @@ sections:
       email: lixiang.chen@fu-berlin.de
       address:
         street: Habelschwerdter Allee 45
-		region: Berlin
+		    region: Berlin
         postcode: '14195'
         country: Germany
         country_code: DE
