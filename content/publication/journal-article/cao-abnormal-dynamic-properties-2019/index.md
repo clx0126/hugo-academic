@@ -2,7 +2,7 @@
 title: Abnormal Dynamic Properties of Functional Connectivity in Disorders of
   Consciousness
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - Bolin Cao
   - Yan Chen
