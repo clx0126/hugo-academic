@@ -2,7 +2,7 @@
 title: Common and Distinct Abnormal Frontal-Limbic System Structural and
   Functional Patterns in Patients with Major Depression and Bipolar Disorder
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - admin
   - Ying Wang

@@ -3,7 +3,7 @@ title: Common and Specific Altered Amplitude of Low-Frequency Fluctuations in
   Parkinson's Disease Patients with and without Freezing of Gait in Different
   Frequency Bands
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - Huiqing Hu
   - Jingwu Chen

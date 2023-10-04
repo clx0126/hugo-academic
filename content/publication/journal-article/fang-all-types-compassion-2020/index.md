@@ -1,7 +1,7 @@
 ---
 title: Do All Types of Compassion Increase Prosocial Lying?
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - Xu Fang
   - admin

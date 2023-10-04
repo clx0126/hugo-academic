@@ -2,7 +2,7 @@
 title: Disrupted Rich Club Organization and Structural Brain Connectome in
   Unmedicated Bipolar Disorder
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - Ying Wang
   - Feng Deng

@@ -2,7 +2,7 @@
 title: Altered Gray Matter Structural Covariance Networks at Both Acute and
   Chronic Stages of Mild Traumatic Brain Injury
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - Jie Song
   - Jie Li

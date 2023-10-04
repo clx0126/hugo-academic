@@ -2,7 +2,7 @@
 title: Abnormal Effective Connectivity of the Anterior Forebrain Regions in
   Disorders of Consciousness
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - Ping Chen
   - Qiuyou Xie

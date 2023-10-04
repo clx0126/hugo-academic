@@ -2,7 +2,7 @@
 title: Disruption of Superficial White Matter in the Emotion Regulation Network
   in Bipolar Disorder
 publication_types:
-  - "Journal Article"
+  - "article-journal"
 authors:
   - Shufei Zhang
   - Ying Wang
