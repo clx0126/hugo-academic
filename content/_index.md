@@ -18,7 +18,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
@@ -27,6 +27,13 @@ sections:
     content:
       title: Contact
       email: lixiang.chen@fu-berlin.de
+	  address:
+        street: Habelschwerdter Allee 45
+        city: Berlin
+        region: Berlin
+        postcode: '14195'
+        country: Germany
+        country_code: DE
       # Automatically link email and phone or display as text?
       autolink: true
     design:
