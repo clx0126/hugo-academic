@@ -1,7 +1,7 @@
 ---
 title: A Specific Brain Network for a Social Map in the Human Brain
 publication_types:
-  - "2"
+  - "Journal Article"
 authors:
   - Lu Zhang
   - Ping Chen

@@ -2,7 +2,7 @@
 title: Time-Delay Structure Predicts Clinical Scores for Patients with Disorders
   of Consciousness Using Resting-State fMRI
 publication_types:
-  - "2"
+  - "Journal Article"
 authors:
   - Bolin Cao
   - Yu Guo

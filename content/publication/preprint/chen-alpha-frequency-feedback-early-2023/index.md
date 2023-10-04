@@ -2,7 +2,7 @@
 title: Alpha-Frequency Feedback to Early Visual Cortex Orchestrates Coherent
   Naturalistic Vision
 publication_types:
-  - "0"
+  - "Preprint"
 authors:
   - admin
   - Radoslaw Martin Cichy*

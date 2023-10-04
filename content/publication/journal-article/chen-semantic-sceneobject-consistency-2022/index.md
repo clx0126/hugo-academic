@@ -2,7 +2,7 @@
 title: Semantic Scene-Object Consistency Modulates N300/400 EEG Components, but
   Does Not Automatically Facilitate Object Representations
 publication_types:
-  - "2"
+  - "Journal Article"
 authors:
   - admin
   - Radoslaw Martin Cichy

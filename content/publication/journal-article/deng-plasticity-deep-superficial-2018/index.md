@@ -2,7 +2,7 @@
 title: "Plasticity in Deep and Superficial White Matter: A DTI Study in World
   Class Gymnasts"
 publication_types:
-  - "2"
+  - "Journal Article"
 authors:
   - Feng Deng
   - Ling Zhao

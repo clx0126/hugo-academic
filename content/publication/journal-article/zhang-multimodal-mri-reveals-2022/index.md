@@ -2,7 +2,7 @@
 title: "Multimodal MRI Reveals Alterations of the Anterior Insula and Posterior
   Cingulate Cortex in Bipolar II Disorders: A Surface-Based Approach"
 publication_types:
-  - "2"
+  - "Journal Article"
 authors:
   - Shufei Zhang
   - Ying Wang
