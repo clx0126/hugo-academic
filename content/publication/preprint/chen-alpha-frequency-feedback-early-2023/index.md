@@ -8,7 +8,7 @@ authors:
   - Radoslaw Martin Cichy*
   - Daniel Kaiser*
 doi: 10.1101/2023.02.10.527986
-publication: "*Science Advances (in press)*"
+publication: "*bioRxiv*"
 abstract: "For coherent visual experience to emerge, the brain needs to
   spatially integrate the complex and dynamic information it receives from the
   environment. To meet this challenge, the visual system uses contextual
