@@ -51,4 +51,4 @@ I am a PhD student in the [Neural Dynamics of Visual Cognition Lab](https://www.
 
 In my current project, I study spatio-temporal dynamics of scene processing in the human brain using neuroimaging techniques (EEG & fMRI) and multivariate pattern analyses (Decoding & RSA).
 
-#{{< icon name="download" pack="fas" >}} {{< staticref "authors/admin/CV_Chen_2023.pdf" "newtab" >}}CV{{< /staticref >}}
+# {{< icon name="download" pack="fas" >}} {{< staticref "authors/admin/CV_Chen_2023.pdf" "newtab" >}}CV{{< /staticref >}}
