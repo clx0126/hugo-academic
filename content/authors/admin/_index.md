@@ -25,7 +25,7 @@ social:
     link: https://www.researchgate.net/profile/Lixiang-Chen-6
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5255-3457
+    link: https://orcid.org/0000-0002-8154-7168
 organizations:
   - name: Freie Universität Berlin
     url: https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/pre_docs/lixiang_chen/index.html
