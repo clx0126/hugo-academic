@@ -23,9 +23,12 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Lixiang-Chen-6
-  - icon: github
+  - icon: orcid
     icon_pack: fab
-    link: https://github.com/lixiang0126
+    link: https://orcid.org/0000-0001-5255-3457
+  - icon: cv
+    icon_pack: fab
+    link: authors/admin/CV_Chen_2023.pdf
 organizations:
   - name: Freie Universität Berlin
     url: https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/pre_docs/lixiang_chen/index.html
@@ -48,4 +51,4 @@ I am a PhD student in the [Neural Dynamics of Visual Cognition Lab](https://www.
 
 In my current project, I study spatio-temporal dynamics of scene processing in the human brain using neuroimaging techniques (EEG & fMRI) and multivariate pattern analyses (Decoding & RSA).
 
-{{< icon name="download" pack="fas" >}} {{< staticref "authors/admin/CV_Chen_2023.pdf" "newtab" >}}CV{{< /staticref >}}
+#{{< icon name="download" pack="fas" >}} {{< staticref "authors/admin/CV_Chen_2023.pdf" "newtab" >}}CV{{< /staticref >}}
