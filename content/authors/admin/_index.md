@@ -8,8 +8,8 @@ interests:
   - Visual Perception
   - EEG & fMRI
   - Decoding & RSA
-  - Resting-State fMRI
-  - Machine Learning & Deep Learning
+  - T-fMRI & RS-fMRI
+  - Deep Neural Network
 social:
   - icon: envelope
     icon_pack: fas
