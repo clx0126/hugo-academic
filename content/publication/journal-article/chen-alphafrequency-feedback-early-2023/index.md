@@ -2,7 +2,7 @@
 title: Alpha-frequency feedback to early visual cortex orchestrates coherent naturalistic
   vision
 authors:
-- Lixiang Chen
+- admin
 - Radoslaw M. Cichy
 - Daniel Kaiser
 date: '2023-11-01'
