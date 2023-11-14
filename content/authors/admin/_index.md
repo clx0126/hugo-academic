@@ -8,7 +8,7 @@ interests:
   - Visual Perception
   - EEG & fMRI
   - Decoding & RSA
-  - T-fMRI & RS-fMRI
+  - Resting-state fMRI
   - Deep Neural Network
 social:
   - icon: envelope
