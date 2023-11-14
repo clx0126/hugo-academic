@@ -9,7 +9,7 @@ interests:
   - EEG & fMRI
   - Decoding & RSA
   - Resting-State fMRI
-  - Open Science
+  - Machine Learning & Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
