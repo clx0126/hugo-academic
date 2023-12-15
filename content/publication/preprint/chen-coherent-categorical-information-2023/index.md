@@ -1,5 +1,5 @@
 ---
-title: Coherent1 categorical information triggers integration-related alpha dynamics
+title: Coherent categorical information triggers integration-related alpha dynamics
 authors:
 - admin
 - Radoslaw Martin Cichy
