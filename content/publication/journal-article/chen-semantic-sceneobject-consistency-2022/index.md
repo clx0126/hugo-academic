@@ -5,8 +5,8 @@ publication_types:
   - "article-journal"
 authors:
   - admin
-  - Radoslaw Martin Cichy*
-  - Daniel Kaiser*
+  - Radoslaw Martin Cichy
+  - Daniel Kaiser
 doi: 10.1093/cercor/bhab433
 publication: "*Cerebral Cortex*"
 abstract: During natural vision, objects rarely appear in isolation, but often
