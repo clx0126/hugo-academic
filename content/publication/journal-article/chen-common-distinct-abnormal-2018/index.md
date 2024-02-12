@@ -4,8 +4,8 @@ title: Common and Distinct Abnormal Frontal-Limbic System Structural and
 publication_types:
   - "article-journal"
 authors:
-  - admin*
-  - Ying Wang*
+  - admin
+  - Ying Wang
   - Chen Niu
   - Shuming Zhong
   - Huiqing Hu
