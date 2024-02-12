@@ -3,8 +3,8 @@ title: Alpha-frequency feedback to early visual cortex orchestrates coherent nat
   vision
 authors:
 - admin
-- Radoslaw M. Cichy
-- Daniel Kaiser
+- Radoslaw M. Cichy*
+- Daniel Kaiser*
 date: '2023-11-01'
 publishDate: '2023-11-10T19:49:13.734159Z'
 publication_types:
