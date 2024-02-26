@@ -44,6 +44,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Lixiang is a PhD candidate in the [Neural Dynamics of Visual Cognition Lab](https://www.google.com/url?q=https%3A%2F%2Fwww.ewi-psy.fu-berlin.de%2Fen%2Feinrichtungen%2Farbeitsbereiche%2Fneural_dyn_of_vis_cog%2Findex.html&sa=D&sntz=1&usg=AOvVaw2MeAUF1caeyCE9Ck2yqUIu) at Freie Universität Berlin. He is co-supervised by [Prof. Radoslaw Martin Cichy](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team/rm_cichy/index.html) and [Prof. Daniel Kaiser](https://www.uni-giessen.de/fbz/fb07/fachgebiete/mathematik/mathematik/ags/index.html/Personen/Professoren/kaiser). 
+Lixiang is a PhD candidates in the [Neural Dynamics of Visual Cognition Lab](https://www.google.com/url?q=https%3A%2F%2Fwww.ewi-psy.fu-berlin.de%2Fen%2Feinrichtungen%2Farbeitsbereiche%2Fneural_dyn_of_vis_cog%2Findex.html&sa=D&sntz=1&usg=AOvVaw2MeAUF1caeyCE9Ck2yqUIu) at Freie Universität Berlin. He is co-supervised by [Prof. Radoslaw Martin Cichy](https://www.ewi-psy.fu-berlin.de/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team/rm_cichy/index.html) and [Prof. Daniel Kaiser](https://www.uni-giessen.de/fbz/fb07/fachgebiete/mathematik/mathematik/ags/index.html/Personen/Professoren/kaiser). 
 
 During his PhD, he studies how scence context affects object representations, as well as the role of cortical feedback in the integration of visual information across space, using neuroimaging techniques (EEG & fMRI) and multivariate methods (Decoding & RSA).
