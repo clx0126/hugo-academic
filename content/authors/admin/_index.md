@@ -26,9 +26,6 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8154-7168
-  - icon: pubmed
-    icon_pack: fab
-    link: https://pubmed.ncbi.nlm.nih.gov/?term=(Lixiang%20Chen%5BAU%5D)%20AND%20((South%20China%20Normal%20University%5BAD%5D)%20OR%20(Freie%20Universit%C3%A4t%20Berlin%5BAD%5D))&sort=date 
 organizations:
   - name: Freie Universität Berlin
     url: https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/team_v2/pre_docs/lixiang_chen/index.html
