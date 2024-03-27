@@ -17,7 +17,4 @@ tags:
 - multivariate pattern analysis
 - natural scenes
 - spatiotemporal coherence
-links:
-- name: URL
-  url: https://journals.physiology.org/doi/full/10.1152/jn.00450.2023
 ---
